@@ -30,9 +30,9 @@ Welcome to the **Video Production and Editing Training Program**. This foundatio
 
 | Field                   | Details                                                                 |
 |-------------------------|-------------------------------------------------------------------------|
-| **Name:**               | Your Name                                                        |
-| **Mobile No:**          | +8801843847344                                                            |
-| **Email ID:**           | youremail@gmail.com                                                  |
+| **Name:**               | fazle rabbi                                                        |
+| **Mobile No:**          | +8801782310773                                                            |
+| **Email ID:**           | frbijoy019@gmail.com                                                  |
 | **LinkedIn Profile:**   | ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin) [Connect on LinkedIn](https://www.linkedin.com/in/fazle-rabbi-bijoy-378054280/) |
 | **GitHub Profile:**     | ![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github) [Visit GitHub](https://github.com/FRBIJOY773) |
 | **Freelancing Profile:**| ![Freelancing](https://img.shields.io/badge/Freelancing-Portfolio-green) [Check Freelancing Portfolio](https://www.freelancer.com/u/frb2) |
